@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="echolib"
+version="${file.jarVersion}"
+displayName="Echo Library"
+authors="ender-titan"
+description='''
+A library required for mods in the Mechacraft series to run.
+ '''
+
